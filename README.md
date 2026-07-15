@@ -1,4 +1,4 @@
-# Pharmacy Management System basic code done by java
+# Pharmacy Management System  done by java
 
 A console-based pharmacy management system built in Java demonstrating interfaces, multi-level inheritance, and polymorphism.
 
